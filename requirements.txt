@@ -1,6 +1,15 @@
+# This file was generated based on the imports in arab.py
 
+# Core application and data handling
 streamlit
-plotly
 pandas
 numpy
-networkx
+
+# Plotting libraries
+plotly
+matplotlib
+Pillow
+
+# Econometrics and statistical models
+statsmodels
+linearmodels
